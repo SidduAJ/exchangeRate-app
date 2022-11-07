@@ -1,0 +1,32 @@
+body{
+    background-color: #f4f8fba9;
+}
+.heading{
+    text-align: center;
+    color: darkblue;
+}
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background-color: #4040de;   
+}
+.title{    
+    margin-left: 10px;
+    font-size: 25px; 
+    color: white;
+    font-weight: 700;   
+}
+.topbarbutton{
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: #de4040;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
